@@ -1,0 +1,1 @@
+.linktel,.linkwhatsapp{position:fixed;overflow:hidden;float:right;text-align:right;bottom:0}@media only screen and (max-width:768px){.linktel{display:none}}.linktel{z-index:1000;width:98%;height:70px}.linkwhatsapp{z-index:1001;width:96%;height:85px;margin-bottom:80px}
